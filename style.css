@@ -1,0 +1,132 @@
+/*navbar*/
+.navbar{
+
+     position: fixed;
+     width: 100%;
+    background-color: rgba(0, 0, 0, 0.796);
+
+
+
+}
+
+
+/*body*/
+.bod{
+  
+ /* Background pattern from Toptal Subtle Patterns */
+ scroll-behavior: smooth;
+ 
+ background-image: url("css/13-reasons-why-season-4-opening-doodles-episode-6-1566576086.gif");
+    height: 100px;
+     width: 100%;
+    background-color:rgba(0, 0, 0, 0.842) ;
+   
+      
+      }
+
+
+
+.clabod{
+    background-image: url("background-personagens/clay-and-hannah-13-reasons-why-season-2.jpg");
+    height: 100px;
+     width: 100%;
+}
+    
+.anibod{
+
+    background-image: url("background-personagens/ani.jpg");
+    height: 100px;
+     width: 100%;
+}   
+   
+
+.tonybod{
+
+    background-image: url("background-personagens/tony-13-reasons-why-ol.jpg");
+    height: 100px;
+     width: 100%;
+}   
+   
+.jesbod{
+
+    background-image: url("background-personagens/jessica-in-13-reasons-why-season-2-qo.jpg");
+    height: 100px;
+     width: 100%;
+}   
+
+.jusbod{
+
+    background-image: url("background-personagens/justin-foley-13-reasons-why-wallpapers.jpg");
+    height: 100px;
+     width: 100%;
+}   
+
+.alexbod{
+
+    background-image: url("background-personagens/alex-1591362421.jpg");
+    height: 100px;
+     width: 100%;
+}   
+.zacbod{
+
+    background-image: url("background-personagens/Zack.jpg");
+    height: 100px;
+     width: 100%;
+}   
+
+
+.tylbod{
+
+    background-image: url("background-personagens/tyler.jpg");
+    height: 100px;
+     width: 100%;
+}   
+
+
+/*carousel*/
+.carro{
+    height: 500px;
+}
+
+
+
+
+
+
+
+.cla{
+   text-align: center;
+    font-size: 18px;
+    
+}
+
+
+/*perfil e redes*/
+.per{
+    text-decoration-color: blue;
+   
+
+
+}
+
+
+.car{
+    text-align: center;
+     
+     background-color: rgba(0, 0, 0, 0);
+}
+   
+
+.pe{
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.842) ;
+
+
+}
+
+
+.im{
+    text-align: center;
+
+}
+
