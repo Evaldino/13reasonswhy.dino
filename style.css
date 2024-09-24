@@ -12,7 +12,9 @@
 
 /*body*/
 .bod{
-  
+  position: fixed;
+   position: relative;
+   display: flex;
  /* Background pattern from Toptal Subtle Patterns */
  scroll-behavior: smooth;
  
